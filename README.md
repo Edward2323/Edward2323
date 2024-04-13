@@ -1,4 +1,6 @@
-### Hi there 👋
+### Otro video ma mi gente🍗
+
+Empezando en el mundo de la programacion😃
 
 <!--
 **Edward2323/Edward2323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
